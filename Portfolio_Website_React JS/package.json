@@ -1,6 +1,6 @@
 {
+  "homepage": "https://beastaman.github.io/reactjs-portfolio-website",
   "name": "resume_website_workshop",
-  "homepage": "https://beastaman.github.io/reactjs-portfolio-website/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
